@@ -14,3 +14,5 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/kabir-patil-020880272/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bdavtd6pmQbe6N6pndcbSfA%3D%3D" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabir-33&" alt="Kabir-33" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kabir-33&show_icons=true&locale=en&layout=compact" alt="Kabir-33" /></p>
+
+<img src="https://raw.githubusercontent.com/harsh-m-patil/harsh-m-patil/output/snake.svg" alt="Snake animation" />
